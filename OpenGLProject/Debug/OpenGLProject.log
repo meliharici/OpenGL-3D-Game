@@ -1,0 +1,57 @@
+﻿  main.cpp
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(93): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(94): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(95): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(117): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(121): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(124): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(274): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(279): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(363): warning C4101: 'i': unreferenced local variable
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(551): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(552): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(553): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(554): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(555): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(556): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(557): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(558): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(598): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(598): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(600): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(600): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(744): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(761): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(808): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(809): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(811): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(812): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(822): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(823): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(825): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(826): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(835): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(836): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(838): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(839): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(849): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(850): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(852): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(853): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(792): warning C4101: 'prevmodel': unreferenced local variable
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(893): warning C4244: 'initializing': conversion from 'GLfloat' to 'int', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(894): warning C4244: 'initializing': conversion from 'GLfloat' to 'int', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(910): warning C4244: 'initializing': conversion from 'GLfloat' to 'int', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(911): warning C4244: 'initializing': conversion from 'GLfloat' to 'int', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(933): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(1066): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(1067): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(1068): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(1080): warning C4018: '<': signed/unsigned mismatch
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(1149): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(1250): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(1271): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(1271): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\toshiba\documents\visual studio 2015\projects\openglproject\openglproject\main.cpp(1282): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  OpenGLProject.vcxproj -> C:\Users\toshiba\Documents\Visual Studio 2015\Projects\OpenGLProject\Debug\OpenGLProject.exe
+  OpenGLProject.vcxproj -> C:\Users\toshiba\Documents\Visual Studio 2015\Projects\OpenGLProject\Debug\OpenGLProject.pdb (Partial PDB)
